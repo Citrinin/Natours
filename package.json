@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Citrinin/Natours#readme",
   "devDependencies": {
+    "hoek": "^5.0.3",
     "node-sass": "^4.9.2"
-  }
+  },
+  "dependencies": {}
 }
