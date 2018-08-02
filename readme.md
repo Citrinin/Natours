@@ -1,1 +1,1 @@
-Learn CSS project
+CSS study project
